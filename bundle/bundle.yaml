@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "CB-CasC-Workshop-Jozef-dev-controller"
+description: "CloudBees CI configuration bundle for the CB-CasC-Workshop-Jozef dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cb-casc-workshop-jozef/dev-controller"
+parent: "base"
